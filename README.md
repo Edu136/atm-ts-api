@@ -17,8 +17,8 @@ As cédulas disponíveis para saque são: **R$ 100, R$ 50, R$ 20, R$ 10, R$ 5 e 
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git](https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git)
-    cd SEU-REPOSITORIO
+    git clone https://github.com/Edu136/atm-ts-api
+    cd atm-ts-api
     ```
 
 2.  **Instale as dependências:**
